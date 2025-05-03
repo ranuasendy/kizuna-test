@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# kizuna-test
-RND for Monday app
-=======
 ## Overview
 This is the "Quickstart React" example Monday app. 
 <br>It can be used as a board view or dashboard widget, connected to a board and render data from the board using settings.
@@ -47,4 +43,3 @@ Example: https://abcd12345.apps-tunnel.monday.app
 5. Click "Upload" radio button and upload zip file with your build
 6. Go to any board and add your just released view
 7. Enjoy!
->>>>>>> f7b2b6f (first commit)
